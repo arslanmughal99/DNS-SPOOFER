@@ -20,3 +20,13 @@ and **Uncomment** line 67 and 68
 
 **NOTE :**
 Running script in local network make sure to run arpspoof against the target so that you can intercept the traffic from target PC
+
+**HELP USAGE**
+![enter image description here](https://dl.dropbox.com/s/7agqtnxqwilhknd/Screenshot1.png?dl=1)
+
+**RUNNING WITH COMMAND LINE ARGS**
+![enter image description here](https://dl.dropbox.com/s/eygxro9mf0ng227/Screenshot2.png?dl=1)
+
+**RUINING INTERACTIVELY**
+![
+](https://dl.dropbox.com/s/uz91056jwvv0npt/Screenshot3.png?dl=1)
